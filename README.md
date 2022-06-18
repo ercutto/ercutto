@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Ercument Sengezer
 #### Game developer on Unity,Html,Unreal Engine
-![Game developer on Unity,Html,Unreal Engine](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Game developer on Unity, Html, Unreal Engine](https://github.com/ercutto/ercutto/blob/main/Erccument%20Sengezer.png)
 
 I am Ercument From Finland, I develop games on Unity. I Have strong understandin on C#. Next I will learn Html Games and Unreal Engine which I already started.
 I Enjoy cooding and learning new technics. Trying to find my own way to develop games. Its gives me great happyness even I get crazy sometimes :) 
